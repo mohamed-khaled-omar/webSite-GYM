@@ -1,0 +1,39 @@
+.l-heading
+{
+    font-size: 2.5rem;
+    line-height: 1.2;
+}
+.lead
+{
+    font-size: 1rem;
+    line-height: 1.2;
+}
+
+#navbar
+{
+    flex-direction: column;
+    padding-bottom: 1.5rem;
+}
+#navbar .logo
+{
+    margin-bottom: 1rem;
+}
+.about-content
+{
+    display: block;
+    text-align: center;
+}
+.about-content img
+{
+    width: 100px;
+    margin: 1rem 0 0 0;
+}
+.trainner-boxs
+{
+    display: block;
+}
+.trainner-box
+{
+    display: block;
+}
+

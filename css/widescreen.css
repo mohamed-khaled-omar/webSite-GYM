@@ -1,0 +1,10 @@
+.boxs .box
+{
+    display: flex;
+    text-align: left;
+}
+.boxs .box img
+{
+    align-self: center;
+    margin-right: 0.5rem;
+}
